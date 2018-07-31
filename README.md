@@ -8,3 +8,7 @@ There are three main parts to the application: shopping, checkout, and administr
 
  
 ![p2](https://user-images.githubusercontent.com/23534230/43431925-306244d0-9425-11e8-8b5e-7a2e102353a4.png)
+
+ /Register
+![p4](https://user-images.githubusercontent.com/23534230/43431980-7ac272f2-9425-11e8-8508-71b2963fc2c8.png)
+
